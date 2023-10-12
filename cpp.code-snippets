@@ -1,0 +1,22 @@
+{
+	"Identified Starter": {
+		"prefix": ["trtt"],
+		"body": ["/* Solved by Sakhawat Hossain Mahin, CSE-28th, SMUCT */",
+					"#include<bits/stdc++.h>",
+					"using namespace std;\n",
+					"int main()",
+					"{",
+					"\tios_base::sync_with_stdio(false);",
+					"\tcin.tie(nullptr);",
+					"\tcout.tie(nullptr);\n",
+					"\tint T;",
+					"\tcin>>T;",
+					"\twhile(T--)",
+					"\t{",
+					"\t\t$1",
+					"\t}",
+					"\treturn 0;",
+					"}"	
+				]
+	}
+}

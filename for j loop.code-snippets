@@ -1,0 +1,11 @@
+{
+	"Identified Starter": {
+		"prefix": ["forj"],
+		"body": [
+					"for(int j = 0$1; i<n; j++)",
+					"{",
+					"\t$2",
+					"}"
+				]
+	}
+}

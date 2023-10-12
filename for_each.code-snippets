@@ -1,0 +1,11 @@
+{
+	"Identified Starter": {
+		"prefix": ["foreach"],
+		"body": [
+					"for(auto& i : $1)",
+					"{",
+					"\t$2",
+					"}"
+				]
+	}
+}
